@@ -20,3 +20,7 @@ This is a simple web test project, deployment
 can be on any web server or even local file system.
 
 ## How to contribute
+
+### Copyright
+
+Copyright XXX
