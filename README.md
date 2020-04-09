@@ -1,7 +1,8 @@
 # Test web project
 
 This is a simple website test project for
-showing how to use git and github together. Adding some line for rebasing example.
+showing how to use git and github together. Adding some line for rebasing example, then
+adding more changes from my_feature branch too.
 
 ## Introduction
 
