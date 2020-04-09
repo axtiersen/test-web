@@ -1,7 +1,7 @@
 # Test web project
 
 This is a simple website test project for
-showing how to use git and github together.
+showing how to use git and github together. Adding some line for rebasing example.
 
 ## Introduction
 
